@@ -1,5 +1,12 @@
 # 互動式
 
+## Demo 影片
+
+
+https://github.com/dallas145/ai/assets/52619674/fe81ed5d-cb88-4bc1-a1ba-7a85342e2eac
+
+
+
 ## 環境需求
 ```
 pip install groq
