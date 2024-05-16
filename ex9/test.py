@@ -13,8 +13,21 @@ try:
 except OSError:
     print('file: chat.md not found, create one.')
 
-question = "Hello!"
+models = ['llama3-70b-8192', 'llama3-8b-8192', 'mixtral-8x7b-32768']
 
+print("----- Choose model -----")
+print("[1] llama3-70b-8192")
+print("[2] llama3-8b-8192 (default)")
+print("[3] mixtral-8x7b-32768")
+choice = input("Pick a model(default:2): ")
+if choice == '':
+    choice = 2
+elif choice not in ["1","2","3"]:
+    print("Invalid value, use default.")
+    choice = 2
+
+question = "Hello!"
+model_type = models[int( choice ) - 1]
 while question != "exit":
     chat_completion = client.chat.completions.create(
         messages=[
@@ -24,13 +37,13 @@ while question != "exit":
                 "content": question,
             }
         ],
-        model="llama3-8b-8192",
+        model=model_type,
     )
 
-    with open('chat.md', 'w', encoding='UTF-8') as f:
-        f.write("Prompt: \n" + \
+    with open('chat.md', 'a', encoding='UTF-8') as f:
+        f.write("## Prompt: \n" + \
                 question + "\n\n" + \
-                "Response: \n" + \
+                "## Response: \n" + \
                 chat_completion.choices[0].message.content + \
                 "\n\n")
 
