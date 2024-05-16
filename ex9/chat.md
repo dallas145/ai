@@ -5,26 +5,26 @@ Hello!
 Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?
 
 ## Prompt: 
-Give me a sentence that includes all of English letters.
+What's the word "Saluton!" in Esperanto means?
 
 ## Response: 
-Here is a sentence that includes all 26 letters of the English alphabet:
-
-"The quick brown fox jumps over the lazy dog."
-
-This sentence is known as a "pangram," a phrase that uses all the letters of the alphabet at least once.
+In Esperanto, "Saluton!" is a greeting, and it means "Hello!" or "Hi!"
 
 ## Prompt: 
-What is the example sentence that used by Adobe apps?
+"There are apple and bananas on the table." Please traslate to Esperanto
 
 ## Response: 
-A reference to the iconic example sentence!
+A simple one!
 
-The sentence is:
+In Esperanto, that sentence would be:
 
-"The quick brown fox jumps over the lazy dog."
+"Sur la tablo estas pomoj kaj bananoj."
 
-This sentence is often used as a test paragraph or placeholder text in graphic design, publishing, and typography. It is known as the "pangram" because it uses all the letters of the alphabet at least once.
+Here's a breakdown:
 
-Adobe and other companies have long used this sentence in their software releases to demonstrate the capabilities of their fonts, layouts, and design tools. The sentence has become synonymous with the design and publishing industries.
+* "Sur la tablo" = "on the table"
+* "estas" = "there are" (third person plural of "esti", to be)
+* "pomoj" = "apples" (plural of "pomo", apple)
+* "kaj" = "and"
+* "bananoj" = "bananas" (plural of "banano", banana)
 
