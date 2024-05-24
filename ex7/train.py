@@ -9,7 +9,7 @@ import sys
 module = __import__(sys.argv[1])
 Net = module.Net
 
-n_epochs = 3
+n_epochs = 6 # 3
 batch_size_train = 64
 batch_size_test = 1000
 learning_rate = 0.01
@@ -120,5 +120,6 @@ plt.scatter(test_counter, test_losses, color='red')
 plt.legend(['Train Loss', 'Test Loss'], loc='upper right')
 plt.xlabel('number of training examples seen')
 plt.ylabel('negative log likelihood loss')
+plt.savefig("result.png") # new!
 plt.show()
 
