@@ -12,3 +12,8 @@
 ## 結論
 放棄  
 我寫不出來
+
+
+
+https://github.com/dallas145/ai/assets/52619674/230e4faa-98b0-4e04-8da8-a7b2a8d9284c
+
