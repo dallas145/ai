@@ -47,10 +47,10 @@
 
 修改自[ groqChat.py ](https://github.com/ccc112b/py2cs/blob/master/03-人工智慧/A4-groq/hello/groqChat.py)
 
-## 習題十
+## [ 習題十 ](../ex10)
 
-還沒寫
+參考[ ReAct | 🦜️🔗 LangChain ](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/react/)
 
 ## [ 習題十一 ](../ex11)
 
-只畫了個棋盤，沒辦法判斷棋子走位是否正確，也不能吃子，更沒有AI。
+只畫了個棋盤，能移動棋子，但沒辦法判斷棋子走位是否正確，也不能吃子，更沒有AI。
