@@ -57,3 +57,9 @@ options:
   -c, --chinese         翻譯成中文
   -e, --english         翻譯成英文
 ```
+
+### 安裝 + 單句翻譯
+
+
+https://github.com/dallas145/ai/assets/52619674/d92ec2af-8779-4a42-8f30-ff992dc9f696
+
