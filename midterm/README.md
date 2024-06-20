@@ -63,3 +63,9 @@ options:
 
 https://github.com/dallas145/ai/assets/52619674/1fe06dbb-f6f8-4f6b-af62-56eabdad978e
 
+
+### 互動式翻譯成中文並留下紀錄檔
+
+
+https://github.com/dallas145/ai/assets/52619674/2c3e3528-e812-48ce-91e9-438e2ce429d4
+
