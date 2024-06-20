@@ -61,5 +61,5 @@ options:
 ### 安裝 + 單句翻譯
 
 
-https://github.com/dallas145/ai/assets/52619674/d92ec2af-8779-4a42-8f30-ff992dc9f696
+https://github.com/dallas145/ai/assets/52619674/1fe06dbb-f6f8-4f6b-af62-56eabdad978e
 
