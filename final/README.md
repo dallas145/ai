@@ -41,7 +41,8 @@
 
 ## [ 習題八 ](../ex8)
 
-修改自[ cartpole_human_run.py ](https://github.com/ccc112b/py2cs/blob/master/03-人工智慧/06-強化學習/01-強化學習/01-gym/04-run/cartpole_human_run.py)
+`cartpole_human_run.py` 修改自[ cartpole_human_run.py ](https://github.com/ccc112b/py2cs/blob/master/03-人工智慧/06-強化學習/01-強化學習/01-gym/04-run/cartpole_human_run.py)  
+`myaction.py` 完全原創
 
 ## [ 習題九 ](../ex9)
 
